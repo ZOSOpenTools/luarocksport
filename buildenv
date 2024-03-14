@@ -1,5 +1,5 @@
 # bump: luarocks-version /LUAROCKS_VERSION="(.*)"/ https://github.com/luarocks/luarocks.git|semver:*
-LUAROCKS_VERSION="3.9.2"
+LUAROCKS_VERSION="3.11.0"
 
 export ZOPEN_BUILD_LINE="STABLE"
 export ZOPEN_STABLE_TAG="v${LUAROCKS_VERSION}"
